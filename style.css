@@ -1,0 +1,9 @@
+.space {
+    margin-left: 1em;
+}
+
+.dim {
+    max-height: 20em;
+    overflow: hidden;
+    overflow: scroll;
+}
